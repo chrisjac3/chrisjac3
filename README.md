@@ -1,6 +1,6 @@
 [ReadMe.md](https://github.com/user-attachments/files/26632954/ReadMe.md)
 # 💫 About Me:
-Student an der Technische Hochschule Mannheim.<br>Ich lerne die Sprachen Java, JavaScript, Python, PHP, C, C++, SQL
+Student an der Technische Hochschule Mannheim.<br>Medizininformatik<br>Ich lerne die Sprachen Java, JavaScript, Python, PHP, C, C++, SQL
 
 
 # 💻 Tech Stack:
